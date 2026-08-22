@@ -4,7 +4,7 @@ See what you actually own once every mutual fund you hold, including funds that 
 funds, is resolved down to individual stocks and sectors. Built on
 [CognoDB](https://console.cognodb.com), a managed graph database.
 
-**Live demo:** _add hosted URL here_
+**Live demo:** [cognodb-portfolio-analyzer.vercel.app](https://cognodb-portfolio-analyzer.vercel.app)
 **Screen recording:** _add link here_
 
 ---
