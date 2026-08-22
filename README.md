@@ -5,7 +5,7 @@ funds, is resolved down to individual stocks and sectors. Built on
 [CognoDB](https://console.cognodb.com), a managed graph database.
 
 **Live demo:** [cognodb-portfolio-analyzer.vercel.app](https://cognodb-portfolio-analyzer.vercel.app)
-**Screen recording:** _add link here_
+**Screen recording:** [Watch/download (MP4, ~5 min)](https://github.com/Allenkd07/cognodb-portfolio-analyzer/releases/download/demo-video/Screen.Recording.2026-08-23.033402.mp4)
 
 ---
 
